@@ -1,0 +1,23 @@
+{
+  "name": "bubble-sort-implementation",
+  "version": "1.0.0",
+  "description": "Implement a function that will take an input Array and apply the bubble sort algorithm to sort the input and return the number of moves that were necessary to sort the Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evermuse/bubble-sort-implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evermuse/bubble-sort-implementation/issues"
+  },
+  "homepage": "https://github.com/evermuse/bubble-sort-implementation#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
