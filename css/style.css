@@ -1,0 +1,5 @@
+#bubbleSortContainer          {width: 620px;margin: 0 auto;border: 1px solid gray;padding: 0px 25px 25px 25px;}
+
+#bubbleSortHeading            {text-align: center;font-family: helvetica; color: 111;}
+
+.bubbleSortBlock              {width: 40px; height: 40px;border: 1px solid gray;display: inline-block;text-align: center;margin:5px;padding: 5px}
